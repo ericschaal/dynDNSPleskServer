@@ -1,0 +1,12 @@
+{
+  "listenPort": "9977",
+  "token": "123456789",
+  "pleskServer": "https://sigmamu.me",
+  "pleskPort": "8443",
+  "pleskLogin": "admin",
+  "pleskPassword": "MYPASSWORD",
+
+  "pleskTargetSiteId": "1",
+  "pleskTargetDNSHost": "home.sigmamu.me."
+
+}
