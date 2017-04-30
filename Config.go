@@ -23,7 +23,7 @@ func readConfig() Config {
 
 	var config Config
 
-	f, err := os.Open("/etc/dynDNSClient.json")
+	f, err := os.Open("/etc/dynDNSServer.json")
 	if err != nil {
 		errlog.Println("Couldn't open config file.")
 		os.Exit(1);
